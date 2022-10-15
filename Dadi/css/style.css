@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-image: url('../img/tavern.jpg');
+  background-size: cover;
+  color: white;
+}
+
+.hidden{
+  display: none;
+}
+
+.h-screen{
+  height: 100vh;
+}
+
+
+.img-scontro{
+  width: 20px;
+  height: 20px;
+  background-color: white;
+  margin: 0 5px;
+}
